@@ -1,2 +1,3 @@
 # Dooms-Day-Planner
 Day Planner Homework
+So this is my day planner which I decided to call my (Dooms) Day Planner, I psuedocoded most of it, if not everything in JS as I still have to mess around with Bootstrap some more for the gridlike appearance of my calendar, find the proper Javascript on click functions for my buttons and being able to save data input onto the calendar by the user. I need to apply the proper Javascript functions so that my page will allow the user input to be saved locally, during the session, and should the page be refreshed, all data being present once the save button has been pressed, if pressed.
